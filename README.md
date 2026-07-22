@@ -1,37 +1,99 @@
-# 👋 ¡Hola! Soy Emily
+<div align="center">
 
-👧 Tengo **11 años** y estoy aprendiendo programación.
+# 👋 ¡Hola! Soy Emily Vans 💜
 
-💻 Mi lenguaje favorito es **Python**.
+### 👧 Tengo 11 años
 
-🚀 Mi meta es completar **100 proyectos de Python** y compartir todo mi aprendizaje.
+### 💻 Aprendiendo Python paso a paso
+
+### 🚀 Reto: 100 Proyectos de Python
+
+*"Cada proyecto es una oportunidad para aprender algo nuevo."*
+
+---
+
+[![TikTok](https://img.shields.io/badge/TikTok-@EmilyVansCode-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@emilyvanscode)
+
+</div>
+
+---
+
+# 🌟 Sobre mí
+
+Hola 👋
+
+Soy **Emily** y me encanta aprender programación.
+
+Mi objetivo es completar **100 proyectos en Python** y compartir todo mi aprendizaje para demostrar que los niños también podemos crear cosas increíbles con código. 💜
+
+---
+
+# 🚀 Mi progreso
+
+```text
+████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+2 / 100 proyectos
+```
 
 ---
 
 # 📚 Proyectos
 
-- ✅ Proyecto #001 - Calculadora
-- ✅ Proyecto #002 - Piedra, Papel o Tijera
-- ⏳ Proyecto #003 - Adivina el número
+| Nº | Proyecto | Estado |
+|:--:|----------|:------:|
+| 🧮 001 | Calculadora | ✅ |
+| 🎮 002 | Piedra, Papel o Tijera | ✅ |
+| 🎲 003 | Adivina el número | 🚧 |
+| 🔒 004 | Generador de contraseñas | ⏳ |
+| ❓ 005 | Próximamente... | ⏳ |
 
 ---
 
-# 📈 Mi progreso
+# 💻 Tecnologías que estoy aprendiendo
 
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
+<p>
 
-**2 de 100 proyectos completados**
+<img src="https://skillicons.dev/icons?i=python,vscode,github" />
+
+</p>
 
 ---
 
-# 💜 Sígueme
+# 🎯 Mi objetivo
 
-📱 TikTok
+✅ Aprender programación.
+
+✅ Completar 100 proyectos.
+
+✅ Compartir mi progreso.
+
+✅ Inspirar a otros niños a aprender a programar.
+
+---
+
+# 📱 Sígueme
+
+🎵 TikTok
 
 **@EmilyVansCode**
 
+👉 https://www.tiktok.com/@emilyvanscode
+
 ---
 
-⭐ Gracias por acompañarme en esta aventura.
+# ⭐ Frase del proyecto
 
-¡Vamos por los 100 proyectos! 🚀
+> **"No necesito saberlo todo hoy. Solo necesito aprender algo nuevo cada día."** 💜
+
+---
+
+<div align="center">
+
+## 🚀 ¡Vamos por los 100 proyectos!
+
+Gracias por visitar mi perfil.
+
+💜 Nos vemos en el siguiente proyecto.
+
+</div>
