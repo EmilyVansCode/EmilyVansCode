@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Emily
 
-<!--
-**EmilyVansCode/EmilyVansCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👧 Tengo **11 años** y estoy aprendiendo programación.
 
-Here are some ideas to get you started:
+💻 Mi lenguaje favorito es **Python**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Mi meta es completar **100 proyectos de Python** y compartir todo mi aprendizaje.
+
+---
+
+# 📚 Proyectos
+
+- ✅ Proyecto #001 - Calculadora
+- ✅ Proyecto #002 - Piedra, Papel o Tijera
+- ⏳ Proyecto #003 - Adivina el número
+
+---
+
+# 📈 Mi progreso
+
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
+
+**2 de 100 proyectos completados**
+
+---
+
+# 💜 Sígueme
+
+📱 TikTok
+
+**@EmilyVansCode**
+
+---
+
+⭐ Gracias por acompañarme en esta aventura.
+
+¡Vamos por los 100 proyectos! 🚀
