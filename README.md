@@ -28,13 +28,13 @@ Mi objetivo es completar **100 proyectos en Python** y compartir todo mi aprendi
 
 ---
 
-# 🚀 Mi progreso
+## 🚀 Python Challenge
 
-## 🚀 Reto: 100 Proyectos en Python
+████░░░░░░░░░░░░░░░░ 2%
 
-🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 2%
-
-**2 / 100 Proyectos Completados**
+✔️ 2 / 100 proyectos completados
+⏳ Faltan: 98
+🎯 Próximo: Proyecto #3
 
 ---
 
