@@ -30,11 +30,11 @@ Mi objetivo es completar **100 proyectos en Python** y compartir todo mi aprendi
 
 # 🚀 Mi progreso
 
-```text
-████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+## 🚀 Reto: 100 Proyectos en Python
 
-2 / 100 proyectos
-```
+🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 2%
+
+**2 / 100 Proyectos Completados**
 
 ---
 
