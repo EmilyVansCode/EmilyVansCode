@@ -32,9 +32,9 @@ Mi objetivo es completar **100 proyectos en Python** y compartir todo mi aprendi
 
 ████░░░░░░░░░░░░░░░░ 3%
 
-✔️ 2 / 100 proyectos completados
-⏳ Faltan: 98
-🎯 Próximo: Proyecto #3
+✔️ 3 / 100 proyectos completados
+⏳ Faltan: 97
+🎯 Próximo: Proyecto #4
 
 ---
 
