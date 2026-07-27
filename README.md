@@ -44,8 +44,8 @@ Mi objetivo es completar **100 proyectos en Python** y compartir todo mi aprendi
 |:--:|----------|:------:|
 | 🧮 001 | Calculadora | ✅ |
 | 🎮 002 | Piedra, Papel o Tijera | ✅ |
-| 🎲 003 | Adivina el número | 🚧 |
-| 🔒 004 | Generador de contraseñas | ⏳ |
+| 🎲 003 | Adivina el número | ✅ |
+| 🔒 004 | Generador de contraseñas | 🚧 |
 | ❓ 005 | Próximamente... | ⏳ |
 
 ---
